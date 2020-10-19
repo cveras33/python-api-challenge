@@ -82,11 +82,25 @@ The linear regression plot above shows the relationship between latitude in the 
 
 ## Part II: VacationPy ##
 
+__Note__: If you're having trouble displaying the maps, try running `jupyter nbextension enable --py gmaps` in your environment and retry. 
+
 #### Heat Map #### 
 ![headmap](https://github.com/cveras33/python-api-challenge/blob/main/Images/heat_map.png)
 
+The heat map displayed above displays the humidity for every city from Part 1. 
+
 #### Hotel Pins #### 
+
+A new data frame is created, only containing cities with ideal weather conditions, which include the following:
+* A max temperature lower than 80 degrees but higher than 70 
+* Wind speed less than 10 mph
+* Zero cloudiness
+
+Any rows that don't contain all three conditions are excluded from this dataframe. 
+
 ![hotels](https://github.com/cveras33/python-api-challenge/blob/main/Images/hotel_heat_map.png)
+
+The pins in the above heat map represent hotels in city's with ideal weather conditions. 
 
 ### Status ### 
 Project is *in progress*. 
