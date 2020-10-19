@@ -10,6 +10,7 @@ Using Python requests, APIs and JSON traversals, the following weather analysis 
 
 
 ## Part I: WeatherPy ## 
+After performing a series of API calls to the Open Weather Map API, world city data is stored in the [weather_check.csv](https://github.com/cveras33/python-api-challenge/blob/main/Output/weather_check.csv) file, which can be access via the link or found in the Output folder in this repository. 
 
 ## Part II: VacationPy ##
 
