@@ -59,5 +59,11 @@ After performing a series of API calls to the Open Weather Map API, world city d
 
 ## Part II: VacationPy ##
 
+#### Heat Map #### 
+![headmap](https://github.com/cveras33/python-api-challenge/blob/main/Images/heat_map.png)
+
+#### Hotel Pins #### 
+![hotels](https://github.com/cveras33/python-api-challenge/blob/main/Images/hotel_heat_map.png)
+
 ### Status ### 
 Project is *in progress*. 
