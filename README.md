@@ -6,11 +6,30 @@ Using Python requests, APIs and JSON traversals, the following weather analysis 
 
 ## Table of Contents ## 
 * [Part I: WeatherPy](#part-i-weatherpy)
+  * [Northern Hemisphere Analysis](#northern-hemisphere-analysis)
+  * [Southern Hemisphere Analysis](#southern-hemisphere-analysis)
 * [Part II: VacationPy](#part-ii-vacationpy)
 
 
 ## Part I: WeatherPy ## 
-After performing a series of API calls to the Open Weather Map API, world city data is stored in the [weather_check.csv](https://github.com/cveras33/python-api-challenge/blob/main/Output/weather_check.csv) file, which can be access via the link or found in the Output folder in this repository. 
+After performing a series of API calls to the Open Weather Map API, world city data is stored in the [weather_check.csv](https://github.com/cveras33/python-api-challenge/blob/main/Output/weather_check.csv) file, which can be accessed via the link or found in the Output folder in this repository. The data was then used to create the following scatter plots to show case the following relationships: 
+
+#### Temperature (F) vs. Latitude ####
+![temp](https://github.com/cveras33/python-api-challenge/blob/main/Images/lat_vs_temp.png)
+
+#### Humidity (%) vs. Latitude ####
+![humidity](https://github.com/cveras33/python-api-challenge/blob/main/Images/lat_vs_humidity.png)
+
+#### Cloudiness (%) vs. Latitude ####
+![cloudiness](https://github.com/cveras33/python-api-challenge/blob/main/Images/lat_vs_cloudiness.png)
+
+#### Wind Speed (mph) vs. Latitude ####
+![windspeed](https://github.com/cveras33/python-api-challenge/blob/main/Images/lat_vs_wind_speed.png)
+
+
+### Northern Hemisphere Analysis ### 
+
+### Southern Hemisphere Analysis ### 
 
 ## Part II: VacationPy ##
 
