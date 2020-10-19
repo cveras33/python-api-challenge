@@ -51,10 +51,12 @@ The linear regression plot above shows the relationship between latitude in the 
 #### Cloudiness (%) vs. Latitude ####
 ![ncloudiness](https://github.com/cveras33/python-api-challenge/blob/main/Images/northern_clousiness_linregress.png)
 
-
+The linear regression plot above shows the relationship between latitude in the northern hemisphere and cloud coverage. Cloud coverage and latitude have a positive correlation in the northern hemisphere. Again, looking at the data points alone, it is difficult to come to that conclusion, but the linear regression line helps give a bit more indication as that. We can also tell there is a lack of correlation between the two variables here because the r-value is fairly close to 0.
 
 #### Wind Speed (mph) vs. Latitude ####
 ![nwindspeed](https://github.com/cveras33/python-api-challenge/blob/main/Images/northern_wind_linregress.png)
+
+The linear regression plot above shows the relationship between latitude in the northern hemisphere and wind speed measured in MPH. Wind speed and latitude have a positive correlation in the northern hemisphere. Still, there is no great correlation between the two variables in this plot, as shown by the r-value being so close to 0.
 
 ### Southern Hemisphere Analysis ### 
 
@@ -71,9 +73,12 @@ The linear regression plot above shows the relationship between latitude in the 
 #### Cloudiness (%) vs. Latitude ####
 ![scloudiness](https://github.com/cveras33/python-api-challenge/blob/main/Images/southern_cloudiness_linregress.png)
 
+The linear regression plot above shows the relationship between latitude in the southern hemisphere and cloud coverage. Cloud coverage and latitude have a positive correlation in the southern hemisphere as well. The date points alone here also do not give a great indication of that.
+
 #### Wind Speed (mph) vs. Latitude ####
 ![swindspeed](https://github.com/cveras33/python-api-challenge/blob/main/Images/southern_wind_linregress.png)
 
+The linear regression plot above shows the relationship between latitude in the southern hemisphere and wind speed measured in MPH. Wind speed and latitude have a negative correlation in the southern hemisphere, differing from the relationship between wind speed and latitude in the northern hemisphere. Similarly to the northern hemisphere, there is no great correlation between wind speed and latitude in the southern hemisphere, as shown by the r-value being so close to 0.
 
 ## Part II: VacationPy ##
 
