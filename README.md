@@ -29,6 +29,19 @@ After performing a series of API calls to the Open Weather Map API, world city d
 
 ### Northern Hemisphere Analysis ### 
 
+#### Temperature (F) vs. Latitude ####
+![ntemp](https://github.com/cveras33/python-api-challenge/blob/main/Images/northern_max_temp_linregress.png)
+
+#### Humidity (%) vs. Latitude ####
+![nhumidity](https://github.com/cveras33/python-api-challenge/blob/main/Images/northern_humidity_linregress.png)
+
+#### Cloudiness (%) vs. Latitude ####
+![ncloudiness](https://github.com/cveras33/python-api-challenge/blob/main/Images/northern_clousiness_linregress.png)
+
+#### Wind Speed (mph) vs. Latitude ####
+![nwindspeed](https://github.com/cveras33/python-api-challenge/blob/main/Images/northern_wind_linregress.png)
+
+
 ### Southern Hemisphere Analysis ### 
 
 ## Part II: VacationPy ##
