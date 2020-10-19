@@ -44,6 +44,19 @@ After performing a series of API calls to the Open Weather Map API, world city d
 
 ### Southern Hemisphere Analysis ### 
 
+#### Temperature (F) vs. Latitude ####
+![stemp](https://github.com/cveras33/python-api-challenge/blob/main/Images/southern_max_temp_linregress.png)
+
+#### Humidity (%) vs. Latitude ####
+![shumidity](https://github.com/cveras33/python-api-challenge/blob/main/Images/southern_humidity_linregress.png)
+
+#### Cloudiness (%) vs. Latitude ####
+![scloudiness](https://github.com/cveras33/python-api-challenge/blob/main/Images/southern_cloudiness_linregress.png)
+
+#### Wind Speed (mph) vs. Latitude ####
+![swindspeed](https://github.com/cveras33/python-api-challenge/blob/main/Images/southern_wind_linregress.png)
+
+
 ## Part II: VacationPy ##
 
 ### Status ### 
