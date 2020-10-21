@@ -103,4 +103,4 @@ Any rows that don't contain all three conditions are excluded from this datafram
 The pins in the above heat map represent hotels in city's with ideal weather conditions. 
 
 ### Status ### 
-Project is *in progress*. 
+Project is *complete*. 
