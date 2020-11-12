@@ -104,3 +104,8 @@ The pins in the above heat map represent hotels in city's with ideal weather con
 
 ### Status ### 
 Project is *complete*. 
+
+#### Contact 
+Chloe Veras  
+chloemveras@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/chloeveras/)
